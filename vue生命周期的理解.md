@@ -1,5 +1,5 @@
 一直不太理解vue的生命周期，因为在实际项目中，只用过mounted这个钩子，其他并没有接触过。今天查阅了初雪日的[vue生命周期中，钩子函数执行顺序](https://blog.csdn.net/tionsu/article/details/78204107)，然后自己把这个知识点梳理了一下，初步了解了vue生命周期。
-![vue生命周期](/img/vue生命周期的理解.png)
+![vue生命周期](./img/vue生命周期的理解.png)
 ## beforeCreate
 #### 官方讲解：
 在实例初始化之后，数据观测 (data observer) 和 event/watcher 事件配置之前被调用。
